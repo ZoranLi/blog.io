@@ -1,12 +1,11 @@
 ---
 layout: post
 title: 这是第一篇文章
-date: 2017年09月05日09:45:11
+date: 2015-3-02
 categories: blog
 tags: [试水,注水,灌水]
 description:刻意练习一个不容易的事
 ---
-
 
 ##初心
 
